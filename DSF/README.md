@@ -28,3 +28,7 @@ This last section covers the calculations for creating a 200x concentration from
 * `sypro_math` function to perform the calculations
 * `sypro_print_table` function to print the table of measurements
 * `sypro_calc` function to perform all functions in one
+
+### Print All Tables
+This prints all the tables from the above sections all together, making it easy to access the values.
+* `print_df_tables` function prints each table saved
